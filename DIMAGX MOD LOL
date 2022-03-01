@@ -81,8 +81,7 @@ MODS = {
     [2360560929] = true; --
     [1823903655] = true; --
     [2041622060] = true; --
-    [3140798308] = true; --
-    [200547759] = true; --
+    [3140798308] = true; --  
 }
 
 ADMIN = {
@@ -95,7 +94,6 @@ ADMIN = {
     [562915894] = true; -- crown buyer <@733437144852332696>
     [2869703616] = true; -- crown buyer
     [2256443109] = true; -- atkD
-    [200547759] = true; --
 }
 
 --// Don't mess with anything below this
